@@ -1,6 +1,3 @@
-- muh names cheg
-- uk timezone
-- thats about it
 
 <!---
 chegative/chegative is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
